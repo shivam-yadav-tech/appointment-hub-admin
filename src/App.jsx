@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
-import Sidebar from "./components/Sidebar";
-import Header from "./components/Header";
-import AddPartnerForm from "./components/AddPartnerForm";
+import Sidebar from "./Components/Sidebar";
+import Header from "./Components/Header";
+import AddPartnerForm from "./Components/AddPartnerForm";
 
 import { Routes, Route, Navigate, useLocation } from "react-router-dom";
 
