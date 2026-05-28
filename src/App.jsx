@@ -10,7 +10,7 @@ import Dashboard from "./Pages/Dashboard";
 import ServicePartner from "./Pages/SeivicePartner";
 import MembershipTable from "./Pages/MembershipList";
 import PaymentsTable from "./Pages/PaymentsTable";
-import AddMembershipForm from "./components/AddMembershipForm";
+import AddMembershipForm from "./Components/AddMembershipForm";
 import Login from "./Pages/Login";
 
 function App() {
